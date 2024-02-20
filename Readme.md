@@ -28,7 +28,7 @@ Please generate a PDF from the iPython notebook and upload it to Gradescope. Ple
 
 ## Deadline
 
-Assignment 2 is due on Feb 27 at 5:00 PM.  
+Assignment 2 is due on March 1 at 5:00 PM.  
 
 ## Notes
 
