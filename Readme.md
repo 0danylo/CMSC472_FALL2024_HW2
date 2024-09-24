@@ -27,7 +27,7 @@ Please generate a PDF from the Jupyter notebook and upload it to Gradescope. Ple
 
 ## Deadline
 
-Assignment 2 is due on Oct. 10 at 4:59 PM.  
+Assignment 2 is due on Oct. 8 at 4:59 PM.  
 
 ## Notes
 
